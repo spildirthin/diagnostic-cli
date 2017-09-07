@@ -20,30 +20,31 @@ C:\alpha >
 
 1. What is your operating system?
 ```
-(replace with your answer)
+Windows
 ```
 
 2. What command(s) do you enter to show the files contained within `alpha`?
 ```
-(replace with your answer)
+dir
 ```
 
 3. What command(s) do you enter to move into the `beta` folder?
 ```
-(replace with your answer)
+cd C:\beta
 ```
 
 4. Now that you are in the `beta` folder, what command(s) do you enter to create a file named `betafile.txt`?
 ```
-(replace with your answer)
+copy NUL betafile.txt
 ```
 
 5. What command(s) do you enter to add a new folder, `beta2`?
 ```
-(replace with your answer)
+mkdir beta2
 ```
 
 6. What command(s) do you use to delete the folder `alpha`?
 ```
-(replace with your answer)
+cd ..
+rmdir alpha
 ```
