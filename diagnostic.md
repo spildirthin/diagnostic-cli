@@ -1,10 +1,5 @@
 # Command Line Interpreter diagnostic
 
-## Resources
-You may use your personal notes, books, and other on-line sources (e.g., documentation, search results) to help you answer the questions. However:
-* For this diagnostic, you must ___not___ consult with other students;
-* To demonstrate comprehension, you must answer the question in your own words.
-
 ## Questions
 
 ___Note___ Answer the following questions with the syntax appropriate to your operating system.
